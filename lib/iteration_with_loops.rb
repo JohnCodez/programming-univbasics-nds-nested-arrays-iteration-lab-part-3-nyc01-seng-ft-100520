@@ -13,5 +13,5 @@ def join_nested_strings(src)
     end
     out += 1
   end
-  arr
+  arr.to_String
 end
